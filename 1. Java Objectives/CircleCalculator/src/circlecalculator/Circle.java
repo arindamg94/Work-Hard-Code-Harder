@@ -12,7 +12,7 @@ public class Circle {
     }
     
     //Static method that calculates and returns circle area;
-    static double area(double r){
+    public static double area(double r){
         return Math.pow(r,2);
     }      
 }
