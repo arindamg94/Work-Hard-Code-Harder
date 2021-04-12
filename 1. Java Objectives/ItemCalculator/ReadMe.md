@@ -7,7 +7,7 @@ Main objectives were to create a calculater class with get/set methods and then 
 - Use try/catch to convert String to integer
 - Create to item objects with the input values
 
-In additon, I implemented a do-while loop to failsafe input statements, such that "diejbdejb" cannot be used as input when expencted integer numbers.
+In additon, I implemented a do-while loop to failsafe input statements, such that "diejbdejb" cannot be used as input when expected integer numbers.
 
 Work is done using Netbeans (Java with Ant).
 
